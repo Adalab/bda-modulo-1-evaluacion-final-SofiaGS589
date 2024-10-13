@@ -1,4 +1,5 @@
 EVALUACIÓN FINAL DEL MÓDULO 1 DE SOFÍA GIMÉNEZ
+
 Se trata de una serie de ejercicios en los que demostramos nuestros conocimientos estudiados. 
 Pero sobre todo demostramos si esos conocimientos han sido asimilados.
 Es un gran reto al ser a través de un Bootcamp. Pero ha sido emocionante.
